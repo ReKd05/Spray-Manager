@@ -1,4 +1,4 @@
-# 🎨 VR Graffiti Mod Manager
+# 🎨 VR Graffiti Mod Manager - Spray Manager v.1.01
 
 A modern, user-friendly mod manager for VR graffiti games, starting with **Kingspray**. Easily install custom maps and future mods without digging through confusing file structures.
 
